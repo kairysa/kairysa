@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Noah
+- 👀 I’m interested in gaming, nature, and technology!
+- 🌱 I’m currently learning Full Stack Software development as a student in Coding Dojo - including MERN, Java, JavaScript, and Python.
+- 💞️ I’m looking to collaborate on any projects to get hands on experience and practice!
+- 📫 How to reach me through email: Noahgardner6@gmail.com
